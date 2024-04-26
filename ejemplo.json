@@ -1,3 +1,5 @@
 {
-"nombre": "Ejemplo"
+  "nombre": "Ejemplo",
+  "numero": 32.,
+  "fecha": "35/06/22"
 }
